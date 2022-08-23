@@ -1,0 +1,56 @@
+.searchinput>input {
+  width:50em;
+  
+}
+.cart{position: absolute !important;
+    right: 40px;
+    }
+    .searching{
+      margin-left: 20em !important;
+    }
+    .home{
+      margin-left: 10px;
+    }
+    .cartIcon{
+      margin:0%
+    }
+
+    /* product page */
+
+    .mainProduct{
+      margin:2em !important;
+      
+    }
+    .productSegment{
+      height:25em !important;
+    }
+    .productImage{
+      height: 17em;
+      align-items: center;
+    display: flex;
+    }
+    .productTitle{
+      text-align: center;
+    }
+    /* categories */
+
+    .catg-button>button{
+      margin-left: 9em !important;
+      margin-top: 1em !important;
+    }
+
+
+    /* Cart */
+    .cartMain{
+      margin:5em
+    }
+    /* profile */
+    .profilepage{
+      margin-top: 5em;
+      margin-left: 35em;
+     width: 20em;
+      height:30em;
+      text-align: -webkit-center;
+    
+     
+    }
